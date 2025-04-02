@@ -574,7 +574,7 @@ class Verifier
 
         if(this.data_ref_.second_name_)
         {
-            CheckSpacesModal(this.data_ref_.second_name_, CellMp.kProject);
+            CheckSpacesModal(this.data_ref_.second_name_, CellMp.kSecondName);
         }
         else
         {           
